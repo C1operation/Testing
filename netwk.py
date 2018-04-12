@@ -1,4 +1,4 @@
-Folderpath=r'\\DESKTOP-HB8MV4A\Users\Pomskies\Desktop\New folder' #Provide the network share file path
+Folderpath=r'\\DESKTOP-HB8MV4A\Users\Pomskies\Desktop\New folder' #Provide the network share file path in the Folder path
 filename=r'SysnetProtectInstaller.msi'#provide filename with extension
 share_user="Pomskies" # Provide the user name for the shared system
 share_pass="Comodo243" # Provide the password for the shared system
