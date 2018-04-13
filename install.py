@@ -1,4 +1,4 @@
-URL='https://www.7-zip.org/a/7z1803.msi' #Please Give the hosted dell command update  the cloud drive link
+URL='https://www.7-zip.org/a/7z1803.msi' #Please provide direct download link the cloud drive link
 import ssl
 import subprocess
 def Download(URL):
